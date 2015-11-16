@@ -14,10 +14,6 @@ cleaned_string = original_string.gsub(/\W/, '')
 cleaned_string.downcase!
 chars = cleaned_string.split ""
 
-# for i in 0..chars.length
-#     puts chars[i]
-# end
-
 # puts "Debug: (chars.length/2-1) is equal to: #{(chars.length/2)-1}"
 # for i in 0..(chars.length/2)-1
 #  if chars[i] == chars[(chars.length-i)-1]
