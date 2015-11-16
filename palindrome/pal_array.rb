@@ -1,5 +1,7 @@
 # pal_array.rb
 # Is an entered string a palindrome?
+# The point of this version is to do it the hard way
+# without using .reverse
 # Created: 08/17/2015
 # Modified: 08/18/2015
 
